@@ -1,6 +1,6 @@
 # :dart: To-do List And Notes App
 
-I built this app to improve my React, Redux and Material UI skills and practice what I learned so far.
+Create tasks and mark them as achieved or delete if you want. You can also take notes and delete them. I built this project to improve my React, Redux and Material UI skills.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
