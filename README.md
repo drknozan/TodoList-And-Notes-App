@@ -18,7 +18,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 > You can add and delete notes.
 
-<img src="./img/preview.gif">
+## :rocket: Run
+
+To run this app on your local machine:
+
+1. Clone the repo.
+
+2. Install required dependencies and start the React app:
+```
+npm install
+npm start
+```
+
+3. You can view the app on: http://localhost:3000
+
+![](/img/preview.gif)
 
 ## :books: To Learn More
 
